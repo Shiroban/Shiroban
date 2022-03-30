@@ -1,4 +1,5 @@
-Yo! I write stuff for fun.
+Yo! I write stuff for fun and watch anime for a living.
+Something seems off.
 
 <!---
 Shiroban/Shiroban is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
